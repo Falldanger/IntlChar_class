@@ -1,0 +1,4 @@
+IntlChar class
+
+Output the table, where in the first column the character code will be displayed, and in the second column its type.
+Note: Of course, you need to use the IntlChar class and loop. The number of iterations must be established experimentally. The table itself must be output via the <table>, <tr> and <td> tags.
